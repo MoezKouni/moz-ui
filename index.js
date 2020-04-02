@@ -15,4 +15,4 @@ function Button({type, text}){
     }
 }
 
-module.exports.Button = moz-ui
+module.exports.Button = Button
