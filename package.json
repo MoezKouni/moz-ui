@@ -1,0 +1,26 @@
+{
+  "name": "moz-ui",
+  "version": "1.0.0",
+  "description": "create easily modern gradient buttons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoezKouni/moz-ui.git"
+  },
+  "keywords": [
+    "button",
+    "gradient",
+    "ui",
+    "component",
+    "react"
+  ],
+  "author": "MoezKouni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoezKouni/moz-ui/issues"
+  },
+  "homepage": "https://github.com/MoezKouni/moz-ui#readme"
+}
