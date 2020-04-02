@@ -1,6 +1,6 @@
 {
   "name": "moz-ui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "create easily modern gradient buttons",
   "main": "index.js",
   "scripts": {
